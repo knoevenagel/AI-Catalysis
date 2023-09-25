@@ -5,7 +5,7 @@
 The modified INVASE algorithm instance-wisely distinguish important and irrelevent features for chemical problems. The detail of the modified INVASE can be found in the Method section and Supplementary Note 3&4. 
 The algorithm is based on Yoon, J., Jordan, J., Schaar, M.: Invase: Instance-wise variable selection using neural networks. ICLR 2019 (2019).
 
-You can use this algorithm by using the mae function:
+You can use this algorithm by importing the mae function:
 mae(actor_h_dim,critic_h_dim,dim,iteration,lamda1,lamda2,learning_rate,lr2,n_layer,penality,batch_size,df)
 
 in which:
