@@ -1,4 +1,6 @@
-#How to use Modifed INVASE algorithm
+#README
+
+##How to use Modifed INVASE algorithm
 
 The modified INVASE algorithm instance-wisely distinguish important and irrelevent features for chemical problems. The detail of the modified INVASE can be found in the Method section and Supplementary Note 3&4. 
 The algorithm is based on Yoon, J., Jordan, J., Schaar, M.: Invase: Instance-wise variable selection using neural networks. ICLR 2019 (2019).
